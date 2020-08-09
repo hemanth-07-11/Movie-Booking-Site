@@ -1,0 +1,2 @@
+# Movie-Booking-Site
+This is a Movie Booking site developed by HEMANTH N, using PHP,HTML,CSS,SQL. This Movie Booking Site allows the user to book an available Movie in a particular slot timing and in a desired theatre. To run the project , install XAMPP, and create a database named mtbs in phpmyadmin and import the mtbs sql file and type localhost/mtbs in search bar and user can see the project in action
